@@ -1,0 +1,4 @@
+# Provides ffmpeg, the program that does the actual audio conversion.
+# If ffmpeg is already installed on your computer, the script uses that one
+# instead, so this is only needed when ffmpeg isn't installed.
+imageio-ffmpeg>=0.8
